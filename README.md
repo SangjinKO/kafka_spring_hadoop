@@ -11,3 +11,5 @@ Include:
 - Spring Kafka (Producer / Listener)
 - Kafka-based Web App (REST API - Kafka - Elasticsearch/Kibana, HDFS)
 - Metricbeat
+
+![image](https://github.com/user-attachments/assets/bed740ee-f681-45b9-ad96-35bfc5635b0e)
